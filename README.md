@@ -2,8 +2,8 @@
 
 Programmer, full-stack web developer, open-source enjoyer, and all-around decent guy.
 
-I've been building apps using vanilla HTML, CSS, and JavaScript, as well as React and Tailwind on the front end.  
-For the back end, it's mostly been Node.js, Express, and Prisma.
+I've been building apps using vanilla HTML, CSS, and JavaScript, as well as React and Tailwind on the front-end.  
+On the back-end, I mainly work with Node.js, Express, and Prisma.
 
 Right now, I'm planning a new project where I’ll be learning and utilizing TypeScript as I go - and after working with relational databases like PostgreSQL, I’m now exploring the non-relational world of MongoDB.
 
@@ -21,7 +21,7 @@ Right now, I'm planning a new project where I’ll be learning and utilizing Typ
 ![Vitest](https://img.shields.io/badge/Testing-Vitest-6E9F18)
 ![Git](https://img.shields.io/badge/Tools-Git-orange)
 
-## 🌐
+## 🌐 (Potentially) helpful links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/goran-jović-b68598165)  
 **LinkedIn:** [https://linkedin.com/in/goran-jović-b68598165](https://linkedin.com/in/goran-jović-b68598165)
