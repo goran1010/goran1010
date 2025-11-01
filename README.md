@@ -27,11 +27,8 @@ Right now, I'm planning a new project where I’ll be learning and utilizing Typ
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/goran-jović-b68598165)  
-**LinkedIn:** [https://linkedin.com/in/goran-jović-b68598165](https://linkedin.com/in/goran-jović-b68598165)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/goran-jović-b68598165)  https://linkedin.com/in/goran-jović-b68598165  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox)](https://YOUR_PORTFOLIO_URL)  
-**Portfolio:** [https://YOUR_PORTFOLIO_URL](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox)](https://YOUR_PORTFOLIO_URL)  https://YOUR_PORTFOLIO_URL
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goran1010jovic@gmail.com)  
-**Email:** [goran1010jovic@gmail.com](mailto:goran1010jovic@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goran1010jovic@gmail.com)  goran1010jovic@gmail.com
