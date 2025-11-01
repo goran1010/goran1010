@@ -29,5 +29,5 @@ Right now, I'm planning a new project where I’ll be learning and utilizing Typ
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/goran-jović-b68598165)  
 **LinkedIn:** [https://linkedin.com/in/goran-jović-b68598165](https://linkedin.com/in/goran-jović-b68598165)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox)](https://goranjovic.netlify.app/)  
-**Portfolio:** [https://YOUR_PORTFOLIO_URL](https://goranjovic.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox)](https://goranjovic.netlify.app)  
+**Portfolio:** [https://goranjovic.netlify.app](https://goranjovic.netlify.app)
