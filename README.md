@@ -12,7 +12,7 @@ I'm a passionate **web developer** who loves building full-stack JavaScript appl
 ![Prisma](https://img.shields.io/badge/ORM-Prisma-lightblue)
 
 ## 📈 GitHub Stats
-![Goran's GitHub stats](https://github-readme-stats.vercel.app/api?username=goran-jovic&show_icons=true&theme=github_dark)
+![Goran's GitHub stats](https://github-readme-stats.vercel.app/api?username=goran1010&show_icons=true&theme=github_dark)
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
