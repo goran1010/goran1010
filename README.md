@@ -7,8 +7,6 @@ For the back end, it's mostly been Node.js, Express, and Prisma.
 
 Right now, I'm planning a new project where I’ll be learning and utilizing TypeScript as I go - and after working with relational databases like PostgreSQL, I’m now exploring the non-relational world of MongoDB.
 
----
-
 ## Technologies & Tools
 ![HTML5](https://img.shields.io/badge/Markup-HTML5-E34F26)
 ![CSS3](https://img.shields.io/badge/Styling-CSS3-264de4)
@@ -22,8 +20,6 @@ Right now, I'm planning a new project where I’ll be learning and utilizing Typ
 ![Jest](https://img.shields.io/badge/Testing-Jest-C21325)
 ![Vitest](https://img.shields.io/badge/Testing-Vitest-6E9F18)
 ![Git](https://img.shields.io/badge/Tools-Git-orange)
-
----
 
 ## 🌐 Connect
 
