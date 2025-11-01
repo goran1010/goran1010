@@ -1,4 +1,4 @@
-# Hi, I'm Goran Jovic
+## Hi, I'm Goran Jovic
 
 Programmer, full-stack web developer, open-source enjoyer, and all-around decent guy.
 
