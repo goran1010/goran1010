@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Goran Jovic
 
-<!--
-**goran1010/goran1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **web developer** who loves building full-stack JavaScript applications and exploring new technologies like **React Native** and **Electron**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![Git](https://img.shields.io/badge/Tools-Git-orange)
+![Prisma](https://img.shields.io/badge/ORM-Prisma-lightblue)
+
+## 📈 GitHub Stats
+![Goran's GitHub stats](https://github-readme-stats.vercel.app/api?username=goran-jovic&show_icons=true&theme=github_dark)
+
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox)](https://YOUR_PORTFOLIO_URL)
