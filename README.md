@@ -21,7 +21,7 @@ Right now, I'm planning a new project where I’ll be learning and utilizing Typ
 ![Vitest](https://img.shields.io/badge/Testing-Vitest-6E9F18)
 ![Git](https://img.shields.io/badge/Tools-Git-orange)
 
-## 🌐 Connect
+## 🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/goran-jović-b68598165)  
 **LinkedIn:** [https://linkedin.com/in/goran-jović-b68598165](https://linkedin.com/in/goran-jović-b68598165)
