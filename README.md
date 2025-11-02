@@ -1,4 +1,4 @@
-Hi, I'm Goran Jović
+Hello there, I'm Goran Jović.
 
 Programmer, full-stack web developer, open-source enjoyer, and all-around decent guy.
 
