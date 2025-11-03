@@ -26,8 +26,8 @@ These days, I'm planning a new project where I’ll be learning and utilizing Ty
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goran1010jovic@gmail.com)  
 [goran1010jovic@gmail.com](mailto:goran1010jovic@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/goran-jović-b68598165)  
-[https://linkedin.com/in/goran-jović-b68598165](https://linkedin.com/in/goran-jović-b68598165)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goran-jovic-dev)  
+[https://www.linkedin.com/in/goran-jovic-dev](https://www.linkedin.com/in/goran-jovic-dev)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=firefox)](https://goranjovic.netlify.app)  
 [https://goranjovic.netlify.app](https://goranjovic.netlify.app)
