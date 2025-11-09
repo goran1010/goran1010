@@ -9,20 +9,6 @@ Meanwhile, I do my best to contribute to open-source and enjoy the communities t
 
 These days, I'm planning a new project where I’ll be utilizing and learning TypeScript as I go - and after working with relational databases, I’m exploring the non-relational world of MongoDB.
 
-![HTML5](https://img.shields.io/badge/Markup-HTML5-E34F26)
-![CSS3](https://img.shields.io/badge/Styling-CSS3-264de4)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green)
-![Express](https://img.shields.io/badge/Framework-Express-lightgrey)
-![React](https://img.shields.io/badge/Frontend-React-blue)
-![TailwindCSS](https://img.shields.io/badge/Styling-TailwindCSS-38BDF8)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-316192)
-![Prisma](https://img.shields.io/badge/ORM-Prisma-lightblue)
-![Jest](https://img.shields.io/badge/Testing-Jest-C21325)
-![Vitest](https://img.shields.io/badge/Testing-Vitest-6E9F18)
-![Git](https://img.shields.io/badge/Tools-Git-orange)
-![Bash](https://img.shields.io/badge/Tools-Bash-4EAA25)
-
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goran1010jovic@gmail.com)  
 [goran1010jovic@gmail.com](mailto:goran1010jovic@gmail.com)
 
