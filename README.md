@@ -1,6 +1,6 @@
 Hello there, I'm Goran Jović.
 
-Programmer, full-stack web developer, maintainer @theodinproject, open-source enjoyer, and all-around decent guy.
+Programmer, full-stack web developer, maintainer @TheOdinProject, open-source enjoyer, and all-around decent guy.
 
 I've been building apps using vanilla HTML, CSS, and JavaScript, as well as React and Tailwind on the front end.  
 On the back end, I mainly work with Node.js, Express, PostgreSQL and Prisma.
