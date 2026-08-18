@@ -7,4 +7,4 @@ On the back end, I mainly work with Node.js, Express, PostgreSQL and Prisma.
 
 Meanwhile, I do my best to contribute to open-source projects and be a part of the communities they foster.
 
-These days, I'm working on a new project where I'll be using and learning non-SQL dbs (MondgoDB).
+These days, I'm working on a new project where I'll be using and learning containerization (Docker) and e2e testing (Playwright).
